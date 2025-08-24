@@ -1,0 +1,5 @@
+{
+  "name": "Firebase Comment Wall",
+  "description": "A real-time, anonymous comment wall application where anyone can post comments. All data is stored and retrieved from Google Firebase Firestore.",
+  "requestFramePermissions": []
+}
